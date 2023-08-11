@@ -1,0 +1,21 @@
+.image{
+   margin-top: 2rem;
+   margin-left: 1rem;
+}
+
+.image-1{
+    height: 23.4rem;
+    width:30rem;
+}
+.image2{
+    height: 23.4rem;
+    margin-left: 1rem;
+}
+
+h1{
+   text-align: center;
+   background-color: rgb(155, 152, 152);
+   width: 43rem;
+   margin-left: 30rem;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
